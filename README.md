@@ -28,6 +28,7 @@
 >>> **Python**
 >>>> *R*
 >>>>> *Unity*
+-------------------------------------------------
 
 ## 현재 재학 중 수강 과목
 |과목명|과목 내용|학점|
@@ -40,37 +41,15 @@
 |알고리즘|알고리즘 이론 및 실습|3|
 |오픈소스SW이해의 이해|오픈소스에 대한 이론 및 실습|3|
 
+---------------------------------------------------------------
 
 ## 관심분야
 1. [Cloud](https://blog.naver.com/dwets/222063596426)
 2. [VR/AR](https://m.post.naver.com/viewer/postView.nhn?volumeNo=29488523&memberNo=12478036&vType=VERTICAL)
 3. [Xcloud](https://www.5gxcloudgame.com/main#)
 
-## 묶어서 표현하기
-1. 이
-2. 렇
-3. 게
-4. 묶여서표현된다. 단 .하고 한칸 띄워야함
 
-## 순서가 없는 목록
-* 집에
-* 가고
-* 싶다
-
-## 줄을표현하는 방법
-******** 
-----------
-(-* 세 개 이상)
-
-http://www.naver.com 자동링크로서 주소가 보이게된다.
-
-[NAVER](http://www.naver.com)
-[]를 사용한뒤()안에 주소를 집어넣는다면 인라인링크로 표현된다.
-
-[NAVER]: http://www.naver.com 
-[네이버][NAVER]
-[]를 사용한뒤 : 세미콜론을 사용하고 괄호를 없애면 참조링크생성
 
 --------------------
-## 오픈소스 커뮤니티 정리파일
-[오픈소스 커뮤니티 파일](openSourceCommunity.md)
+#### FeeltheRhytmofKorea
+[한국홍보영상](FeeltheRhytmofKorea.md)
