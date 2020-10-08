@@ -22,12 +22,12 @@
 
 ----------------------------------------------
 
-## 프로그래밍 언어
-> JAVA
->> C
->>> Python
->>>> Unity
->>>>> R
+## 프로그래밍 언어 수준
+> **JAVA**
+>> **C**
+>>> **Python**
+>>>> *R*
+>>>>> *Unity*
 
 ## 현재 재학 중 수강 과목
 |과목명|과목 내용|학점|
@@ -41,8 +41,10 @@
 |오픈소스SW이해의 이해|오픈소스에 대한 이론 및 실습|3|
 
 
-
-
+## 관심분야
+1. [Cloud](https://blog.naver.com/dwets/222063596426)
+2. [VR/AR](https://m.post.naver.com/viewer/postView.nhn?volumeNo=29488523&memberNo=12478036&vType=VERTICAL)
+3. [Xcloud](https://www.5gxcloudgame.com/main#)
 
 ## 묶어서 표현하기
 1. 이
@@ -72,16 +74,3 @@ http://www.naver.com 자동링크로서 주소가 보이게된다.
 --------------------
 ## 오픈소스 커뮤니티 정리파일
 [오픈소스 커뮤니티 파일](openSourceCommunity.md)
-
-
-### 마크언어 문법 강조
-
-*기본강조 문구*     
-_기본강조 문구_       
-**기본강조 문구**     
-__강조 문구__     
-++강조문구++      
-~~기본강조 문구~~
-
-
-[eclipse]: http://www.eclipse.org
