@@ -60,7 +60,7 @@
 -------------------------------------------------
 
 ## 프로그래밍 활용 정도
-
+<img alt="java" src= java.png width="60" height="50"/><img alt="C" src= C.png width="60" height="50"/><img alt="unity" src= unity.jpg width="60" height="50"/><img alt="ptyhon" src= python.png width="60" height="50"/><img alt="R" src= R.png width="60" height="50"/>
 ### JAVA 
 - 자료구조와 알고리즘을 다룰 줄 알며 전반적인 프로그램 설계를 할 수 있습니다.
 - 기본적인 제어문, 반복문 능숙히 사용할 수 있습니다. 
